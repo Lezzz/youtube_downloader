@@ -7,13 +7,23 @@
 .heading {
 
     font-family: 'Karla', sans-serif;
-    margin-top: 30vh;
+    margin-top: 10vh;
+    padding-top: 10vh;
+
 
 }
 
+body{
+
+    background-image: url('./images/background.jpg');
+    
+
+}
 .URL-input {
 
     font-family: 'Karla', sans-serif;
+
+
 
 }
 
@@ -25,6 +35,16 @@
 
 .div-button {
 
-margin-top: 20px;
+margin-top: 5px;
+padding-bottom: 10vh;
+
+
+}
+
+.container {
+    background-image: url('./images/box_background.png');
+    margin-right: 70vh;
+    margin-left: 70vh;
+    box-shadow: 0.5px 0.5px 0.5px 0.5px darkslategrey;
 
 }
