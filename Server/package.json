@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@types/cors": "^2.8.4",
+    "@types/express": "^4.16.1",
     "cors": "^2.8.5",
     "express": "^4.16.4",
     "ytdl-core": "^0.29.1"
